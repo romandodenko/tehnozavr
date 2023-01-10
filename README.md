@@ -1,1 +1,1 @@
-# tehnozavr
+# tehnozavr, домашняя работа - курс VUE.js
